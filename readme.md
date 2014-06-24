@@ -1,0 +1,1 @@
+ICode ia an open free communication community specifically for fans of software delelopment.Here,you can share your konwledge and your software,exchange experience with your friends,seek for help when you meet difficulty in software developing,or offer solutions to the friends which is in trouble.In a word,ICode is a playyard of fans of software development.
